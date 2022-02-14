@@ -1,7 +1,6 @@
 div.flex-container {
   text-align: center;
   display: flex;
-  gap: 12px;
   justify-content: space-around;
   align-items: center;
   background-color: blue;
