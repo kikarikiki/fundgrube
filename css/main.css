@@ -1,9 +1,9 @@
 div.flex-container {
   display: flex;
+  background-color: red;
 }
 
 div.flex-item {
   justify-content: center;
   align-item: center;
-  background-color: red;
 }
