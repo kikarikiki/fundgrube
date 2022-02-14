@@ -7,5 +7,7 @@ div.flex-container {
 }
 
 div.vid {
+  width: 200px;
+  display: block;
   overflow: hidden;
 }
