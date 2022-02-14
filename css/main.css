@@ -1,8 +1,8 @@
-.flex-container {
+div.flex-container {
   display: flex;
 }
 
-.flex-item {
+div.flex-item {
   justify-content: center;
   align-item: center;
   width: 300px;
