@@ -5,7 +5,5 @@ div.flex-container {
 div.flex-item {
   justify-content: center;
   align-item: center;
-  width: 300px;
-  height: 500px;
   background-color: red;
 }
