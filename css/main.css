@@ -6,6 +6,7 @@ div.flex-container {
 }
 
 div.vid {
+  overflow: hidden;
   height: 100%;
-  width: 500px;
+  width: 300px;
 }
