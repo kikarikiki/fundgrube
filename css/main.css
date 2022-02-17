@@ -1,13 +1,12 @@
-div.flex-container {
-  text-align: center;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+div.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
   background-color: blue;
 }
 
 div.vid {
-  max-width: 200px;
+  _max-width: 200px;
   _display: block;
   _overflow: hidden;
 }
