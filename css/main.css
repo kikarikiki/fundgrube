@@ -1,6 +1,9 @@
 div.wrapper {
+  margin: 0 auto;
+  max-width: 900px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
   background-color: blue;
 }
 
