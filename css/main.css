@@ -6,8 +6,3 @@ div.wrapper {
   grid-gap: 1em;
 }
 
-div.vid {
-  _max-width: 200px;
-  _display: block;
-  _overflow: hidden;
-}
